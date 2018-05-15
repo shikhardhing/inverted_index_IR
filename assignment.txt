@@ -1,0 +1,4 @@
+Implement TF-IDF and evaluate using following setup. Submit your code for evaluation.
+
+Collection: http://www.isical.ac.in/~fire/data/docs/adhoc/en.docs.2011.tar.gpg --- PGP keyphrase is "adhoc11.en.0514"
+Queries: http://www.isical.ac.in/~fire/data/topics/adhoc/en.topics.126-175.2011.txt
